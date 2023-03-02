@@ -27,4 +27,40 @@
     margin-left: auto;
     margin-right: auto;
 }
+::-webkit-input-placeholder {
+    font-style: italic;
+    font-family: Amiri;
+}
+:-moz-placeholder {
+    font-style: italic;
+    font-family: Amiri;
+}
+::-moz-placeholder {
+    font-style: italic;
+    font-family: Amiri;
+}
+:-ms-input-placeholder {
+    font-style: italic;
+    font-family: Amiri;
+}
+.inputbox{
 
+    border-radius: 10px;
+    background: #F9B919;
+    padding: 3px;
+    width: 298px;
+    height: 55px;
+}
+.inputfield{
+    border-radius: 10px;
+    width:85%;
+    height: 90%;
+    align-self: center;
+    margin:2px;
+    border:2px;
+}
+
+.labelsvg{
+    height: 34px;
+    width: 34px;
+}
