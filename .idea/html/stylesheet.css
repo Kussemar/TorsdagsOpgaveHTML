@@ -86,7 +86,14 @@ body {
 .colorgreen{
     background-color: #39b137; !important;
 }
+.login-box{
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.4);
+    padding: 10px;
+    max-width: 310px;
+    margin: auto;
 
+}
 /*
 .btn-lg {
     padding: 10px 20px;
