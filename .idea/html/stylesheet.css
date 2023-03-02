@@ -75,13 +75,16 @@ body {
     background-color: #39b137; !important;
 }
 
+/*
 .btn-lg {
     padding: 10px 20px;
     font-size: 20px;
     border-radius: 10px;
-    width: 300%;
+    width: 350%;
     align-self: center;
 }
-.centeralign{
-    align-self: center;
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
+*/
