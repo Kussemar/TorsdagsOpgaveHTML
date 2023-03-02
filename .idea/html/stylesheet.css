@@ -95,8 +95,18 @@ body {
     width: 350%;
     align-self: center;
 }
+
 .col-centered{
     float: none;
     margin: 0 auto;
 }
 */
+
+.centeralign{
+    align-self: center;
+}
+.drop-shadow{
+    box-shadow: 0px 5px 4px rgba(0,0,0,0.3);
+
+}
+
