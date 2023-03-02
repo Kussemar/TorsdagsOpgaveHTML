@@ -59,10 +59,22 @@
     margin:2px;
     border:0px;
 }
+.inputfield-password{
+    position: relative;
+}
 
 .labelsvg{
     height: 34px;
     width: 34px;
+    margin-left: 10%;
+}
+
+.show-password-icon{
+    content: url("../assets/ShowPassword.svg");
+    margin-left: -35px;
+    margin-top: 17px;
+    cursor: pointer;
+    position: absolute;
 }
 body {
     background-image: url(../assets/abstract-gray-background-with-wavy-lines-vector.jpg);
